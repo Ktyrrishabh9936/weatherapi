@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/weatherapi/static/css/main.10f48a3a.css",
+    "main.js": "/weatherapi/static/js/main.91948a1a.js",
+    "static/js/787.08fa795f.chunk.js": "/weatherapi/static/js/787.08fa795f.chunk.js",
+    "static/media/clear.webp": "/weatherapi/static/media/clear.8d1ced1b28deeef81ddf.webp",
+    "static/media/loading.jpg": "/weatherapi/static/media/loading.ea6b0e3cb9cfc628130e.jpg",
+    "static/media/sunny.jpg": "/weatherapi/static/media/sunny.b5dfe408db8f2c0431cb.jpg",
+    "static/media/heavyrain.jpg": "/weatherapi/static/media/heavyrain.a9a9c3c9a11a2d0ea74a.jpg",
+    "static/media/cloudybg.jpg": "/weatherapi/static/media/cloudybg.645fab5750b8d81790f1.jpg",
+    "static/media/partlycloudybg.webp": "/weatherapi/static/media/partlycloudybg.b62895cd05d68db664fb.webp",
+    "index.html": "/weatherapi/index.html",
+    "main.10f48a3a.css.map": "/weatherapi/static/css/main.10f48a3a.css.map",
+    "main.91948a1a.js.map": "/weatherapi/static/js/main.91948a1a.js.map",
+    "787.08fa795f.chunk.js.map": "/weatherapi/static/js/787.08fa795f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10f48a3a.css",
+    "static/js/main.91948a1a.js"
+  ]
+}
